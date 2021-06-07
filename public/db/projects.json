@@ -1,0 +1,228 @@
+[
+  {
+    "_id": "60043b23eecb8f4d0002a9d5",
+    "projectImage": [
+      "6004c1c3eecb8f4d0002ebdf"
+    ],
+    "projectContent": [
+      {
+        "paragraph": "FooBar's order form and dashboard were created to provide a better overview of different products for both staff and customers. The order form helps to ease the ordering flow for customers and the dashboard gives necessary information to the bar's staff and makes their job a bit easier."
+      },
+      {
+        "paragraph": "Our tasks were to display the right JSON data to the chosen target groups in the right way and optimizing the products' performance. We took certain laws of UX and designed the bar's logo and UI elements for both products, such as Law of similarity, Jakob's law, etc. to make them more user-friendly (https://lawsofux.com/)."
+      },
+      {
+        "paragraph": "The solutions were built with different separate components to create an overview for the team, hence the workload could be better divided between us. We also decided that 2 members would work on one solution."
+      },
+      {
+        "paragraph": "To this project, we had to apply four new tools that were not included in our curriculum. We chose to work with React and some other npm packages.The order form was coded in React, with the following packages: ReactSVG, React Router DOM, React Number Format, React Media Hook, MUICSS. The dashboard to coded with HTML, CSS and JavaScript, with Parcel Bundler and Babel (@babel/polyfill)."
+      },
+      {
+        "paragraph": "When the building process was done, the order form was turned out great and worked well. However, our dashboard's responsiveness did not function well and I am currently using my free time to work on fixing this issue."
+      }
+    ],
+    "projectName": "FooBar",
+    "projectLink": "https://rhdvo.dk/kea/3-sem/foobar-new/index.html",
+    "projectThumbnail": [
+      "60046a91eecb8f4d0002ad7b"
+    ],
+    "timeOfComplete": "2020-06-25T00:00:00.000Z",
+    "inFocus": "ReactJS, Form optimization, UI design, UX, JSON"
+  },
+  {
+    "_id": "60043ea8eecb8f4d0002a9ff",
+    "projectImage": [
+      "6004c6d1eecb8f4d00030c9f"
+    ],
+    "projectContent": [
+      {
+        "paragraph": "To this project, our client, DXC Technology needed a new solution to the current sign-up process to their whitepapers. The goal of the solution was to optimize the daunting task of filling a form, that all users have to go through when they want to interact with an establishment on the internet."
+      },
+      {
+        "paragraph": "The sign-up process is broken down into 3 different steps and applied 3 out of 6 principles of Persuasion: authority, reciprocity, commitment and consistency (https://www.influenceatwork.com/principles-of-persuasion/). This made the users felt safe and motivated to complete the form. Hence, it would be more likely that they give out their information to the establishment."
+      },
+      {
+        "paragraph": "The solution is not only designed for new users, but also for the returned users. The form has an extra feature of recognizing saved information from the database. And to make it easier, the returned user can also sign in with the sign-in form from clicking the 'Already signed up?' link. Nevertheless, this feature can be improved with the feature of 'forget log-in details'."
+      },
+      {
+        "paragraph": "As for the design aspect, we kept the company's current digital identity and used its design guide in a different way."
+      }
+    ],
+    "projectName": "An optimized flow with DXC Tech",
+    "projectLink": "https://rhdvo.dk/kea/3-sem/dxc-project/index.html",
+    "projectThumbnail": [
+      "60046b5eeecb8f4d0002ad89"
+    ],
+    "timeOfComplete": "2020-04-30T00:00:00.000Z",
+    "inFocus": "Form optimization, UI design, REST API, SCSS, HTML, JS, npm, Parcel, localStorage"
+  },
+  {
+    "_id": "6004429feecb8f4d0002aa27",
+    "projectImage": [
+      "6004d933eecb8f4d00030d39"
+    ],
+    "projectContent": [
+      {
+        "paragraph": "Art is no longer limited to confined spaces, like museums and galleries. It can be found in many places and forms, such places can be the digital world. This project was the second semester's exam at KEA, which was about making a multimedia solution for an established artist."
+      },
+      {
+        "paragraph": "In collaboration with the painter Krista Werdelin, Copenhagen based, my group and I recreated and redesigned the painters digital identity by making a communication plan and a new look for her current website."
+      },
+      {
+        "paragraph": "The technical part of the website was built with Content Management System and common coding languages - HTML, CSS and JavaScript. Content and other data, that need constant editing by our client, were handled in WordPress and loaded using JavaScript. The design focused on showcasing Krista Werdelin's artworks with mimalistic feel but matching the painter's personality."
+      }
+    ],
+    "projectName": "Krista Werdelin website",
+    "projectLink": "https://rhdvo.dk/kea/2-semester/kw-improved/index.html",
+    "projectThumbnail": [
+      "600469d0eecb8f4d0002ad6e"
+    ],
+    "inFocus": "CMS, REST API, JavaScript, After Effect, Content creation, Digital marketing",
+    "timeOfComplete": "2019-12-20T00:00:00.000Z"
+  },
+  {
+    "_id": "600441daeecb8f4d0002aa20",
+    "projectImage": [
+      "6004cf06eecb8f4d00030cdc"
+    ],
+    "projectContent": [
+      {
+        "paragraph": "This project was meant to inspire students to find solutions to their own problems at KEA. Our team chose to make an event app, which aimed at solving the lack of students' social life at KEA. The solution would give students an overview of all events happening at all campuses. We called it KEA Social."
+      },
+      {
+        "paragraph": "To make the design process more effective, we used Design Sprint development process. Prototyping was done in Adobe XD."
+      }
+    ],
+    "projectName": "KEA Social",
+    "projectLink": "https://xd.adobe.com/view/8a47192b-7324-40a7-5c89-a742815b635d-fc76/?fullscreen",
+    "projectThumbnail": [
+      "60046adfeecb8f4d0002ad81"
+    ],
+    "inFocus": "UX, Design Sprint, Adobe XD",
+    "timeOfComplete": "2020-06-21T00:00:00.000Z"
+  },
+  {
+    "_id": "6004431eeecb8f4d0002aa31",
+    "projectImage": [
+      "6004d7e7eecb8f4d00030d29"
+    ],
+    "projectContent": [
+      {
+        "paragraph": "Hacked Hogwarts was the kickstart of my third semester at KEA. The focus of using Javascript programming for visual interfaces was at the core of this project. It was based on the popular novels chronicle - Harry Potter."
+      },
+      {
+        "paragraph": "I developed a digital administration platform for Hogwarts School of Witchcraft and Wizardry. Some of the modern web features were implemented, such as search, filter, sort, grid view, and the likes. Certain administrative features in the original chronicle were also included, like prefects, each house's color theme, etc. These features were built using code planning and vanilla Javascript."
+      },
+      {
+        "paragraph": "The overall look of Hacked Hogwarts was inspired by the classic classroom environment."
+      }
+    ],
+    "projectName": "Hacked Hogwarts",
+    "projectLink": "https://rhdvo.dk/kea/3-sem/11c-04-04-hogwarts/index.html",
+    "projectThumbnail": [
+      "60046a1ceecb8f4d0002ad73"
+    ],
+    "inFocus": "JavaScript",
+    "timeOfComplete": "2020-03-01T00:00:00.000Z"
+  },
+  {
+    "_id": "600440a7eecb8f4d0002aa14",
+    "projectImage": [
+      "6004d9e0eecb8f4d00030d41"
+    ],
+    "projectContent": [
+      {
+        "paragraph": "Music can help us calm down, boost our mood and comfort us in time of sadness. It is also one of my favorite things in life. In 2019, I had a chance to work with two other people, that shared the same interest."
+      },
+      {
+        "paragraph": "This project was our take on how people could discover good music, paying no subscription. The idea behind was that, we, as music-currator, publish a playlist of the month and people could find new songs and/or rediscover their jam from back in the days."
+      },
+      {
+        "paragraph": "Data was stored in JSON format and was loaded using Javascript. HTML and CSS handled the design and layout of the website."
+      },
+      {
+        "paragraph": "The current website is just a rough version of our ideas. Further development could be user signup, user profile, sharing features between users and play music live."
+      },
+      {
+        "paragraph": "All three of us was involved in planning, designing and coding processes."
+      }
+    ],
+    "projectName": "Music box",
+    "projectLink": "https://rhdvo.dk/kea/2-semester/tema7/07-03-01-forbedret-music-box-/index.html",
+    "projectThumbnail": [
+      "6004659aeecb8f4d0002ad42"
+    ],
+    "inFocus": "JSON, JavaScript",
+    "timeOfComplete": "2019-09-19T00:00:00.000Z"
+  },
+  {
+    "_id": "6004397deecb8f4d0002a9b8",
+    "projectImage": [
+      "60043a6eeecb8f4d0002a9cc"
+    ],
+    "projectContent": [
+      {
+        "paragraph": "In collaboration with the PolloPollo organization - a peer-to-peer donation platform, my team, GitPush, built a redesign of the current platform. The project's goal was to improve the user experience, especially for donors, but still making sure the performance of the website is not being compromised. The donation flow was also in focus."
+      },
+      {
+        "paragraph": "Since the current donation flow is 100% hosted on PolloPollo platform, we designed the whole donation flow from scratch with Sign In/ Sign Up and guest donation features and added other payment methods in the UI design. The design of the donation process followed different UX principles, such as Jakob's law and Law of Similarity to make the form accessible and user-friendly. Principles of persuasion were also taken into consideration, i.e. Consistency principle. The form's design is consistent with the form standards on the websites, including NGOs."
+      },
+      {
+        "paragraph": "Aside from improvements for the donation flow, the performance of the website plays also a big role. We made and compressed images, as well as used  React lazy loading features, React.lazy and Suspense functions to reach this goal. PolloPollo does not only have donors as their target audience but also applicants, who are from LEDC (Less Economically Developed Countries), that utilize the platform."
+      },
+      {
+        "paragraph": "The project is hosted on Netlify, which helps the project being updated and launched fast and proficient - Continuous Integration (CI)."
+      },
+      {
+        "paragraph": "Current PolloPollo.org: https://pollopollo.org/ (Allow All Cookies when visit)"
+      }
+    ],
+    "projectName": "Redesign of PolloPollo",
+    "projectLink": "https://blissful-poincare-3a4dd3.netlify.app/",
+    "projectThumbnail": [
+      "60046772eecb8f4d0002ad52"
+    ],
+    "timeOfComplete": "2021-01-11T00:00:00.000Z",
+    "inFocus": "React, UI and UX design, Material-UI, CI (Continuous Integration)"
+  },
+  {
+    "_id": "60043fb4eecb8f4d0002aa0b",
+    "projectImage": [
+      "60044733eecb8f4d0002aa4f"
+    ],
+    "projectContent": [
+      {
+        "paragraph": "The project was done in collaboration with Danish Museum of Science & Technology. To one of the museum's upcoming exhibitions, inspiration was needed on how to demonstrate and teach people about different important inventions of our society. The end product should be an offline infoscreen, with which visitors can interact."
+      },
+      {
+        "paragraph": "The focus has been on creating user stories to document how the user interacts with the solution. "
+      },
+      {
+        "paragraph": "Our team decided to work on the theme called the invention of the light bulb. Our target group was families with small children. We believe graphics combined with animations have the ability to tell a story better and help our communication with the target group."
+      },
+      {
+        "paragraph": "SCSS and Parcel Web Application Bundler were used to process our separately built components faster. We have gone through the following phases:"
+      },
+      {
+        "bullets": [
+          {
+            "bullet": "Idea generation process"
+          },
+          {
+            "bullet": "Drawing vector graphics in Illustrator"
+          },
+          {
+            "bullet": "Coding the layout and animating elements with GreenSock."
+          }
+        ]
+      }
+    ],
+    "projectName": "The invention of the Light bulb",
+    "projectLink": "https://rhdvo.dk/kea/3-sem/12c-04-01-animation/index.html",
+    "projectThumbnail": [
+      "6009fcdaf564f0050000720c"
+    ],
+    "inFocus": "Parcel, GreenSock, JavaScript, SCSS, SVG, Illustrator, advanced animation",
+    "timeOfComplete": "2020-03-27T00:00:00.000Z"
+  }
+]
