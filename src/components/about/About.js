@@ -21,10 +21,11 @@ function About() {
 			imgStyles={styles.blackWhite}
 			docStyle={styles.aboutPage}>
 			<p>
-				I’m Rachel — a frontend developer and digital consultant based in
-				Copenhagen. I specialize in building accessible, performant, and
-				scalable user interfaces using modern web technologies like React,
-				Typescript, Sass/Scass, Tailwind CSS and more.
+				I’m Rachel — a frontend developer and digital consultant at Pentia
+				based in Copenhagen. I specialize in building accessible,
+				performant, and scalable user interfaces using modern web
+				technologies like React, Typescript, Sass/Scass, Tailwind CSS and
+				more.
 			</p>
 			<br />
 			<p>
