@@ -1,32 +1,43 @@
 @import "../../styles/index";
 
 main.projectsPage {
+  gap: 2rem;
+  display: inline-flex;
+  flex-direction: column;
+
   h1 {
     text-align: center;
   }
 }
 
-section.allProjectsWrapper {
+div.allProjectsWrapper {
   @include flex-col;
+  gap: 2.5rem;
   justify-content: space-between;
   margin-top: 5vh;
 }
 
+section.textWrapper {
+  text-align: left;
+  .textContainer ul {
+      padding: 0 1.8rem;
+    }
+}
+
 @media (min-width: $max-s) {
   main.projectsPage {
-    h1 {
+    h1, h2 {
       text-align: left;
     }
   }
-  section.allProjectsWrapper {
+  div.allProjectsWrapper {
     @include grid-2-cols;
-    gap: 2rem;
     margin-bottom: 2.5rem;
   }
 }
 
 @media (min-width: $max-m) {
-  section.allProjectsWrapper {
+  div.allProjectsWrapper {
     grid-template-columns: repeat(3, 1fr);
   }
 }
