@@ -2,7 +2,6 @@
 
 main.document {
   @include flex-col;
-  align-items: center;
 
   article.content {
     text-align: left;
@@ -35,8 +34,6 @@ main.document {
     gap: 0rem;
     align-items: start;
 
-    margin: unset;
-
     article.content {
       h2:first-of-type {
         margin: unset;
@@ -53,8 +50,5 @@ main.document {
       }
     }
 
-    // img {
-    //   width: 100%;
-    // }
   }
 }
