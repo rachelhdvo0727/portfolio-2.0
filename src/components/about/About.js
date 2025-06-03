@@ -14,7 +14,7 @@ function About() {
 					About me
 				</h1>
 			}
-			titleStyle={{ marginLeft: '49px' }}
+			titleStyle={styles.titleStyle}
 			articleTitle='Hi,'
 			imgSrc={Profile}
 			imgAlt='Rachel Vo profile pic'

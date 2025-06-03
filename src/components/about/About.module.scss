@@ -4,8 +4,14 @@
   filter: grayscale(100%);
 }
 
+.titleStyle {
+  margin-left: 49px;
+  margin-right: 49px;
+}
+
 @media (min-width: $max-s) {
-  .aboutPage {
+  main.document .aboutPage {
     overflow-y: hidden;
+    margin: 0 8rem;
   }
 }
