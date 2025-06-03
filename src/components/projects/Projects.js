@@ -68,7 +68,7 @@ function Projects() {
 					<p>
 						While client work keeps me busy, I’m exploring and learning in
 						my spare time. I have earned IAAP CPACC certificate in
-						aceessibility and working on mobile development, which I
+						accessibility and working on mobile development, which I
 						regularly test new ideas, which I document in small GitHub
 						repositories.
 					</p>
@@ -76,13 +76,13 @@ function Projects() {
 					<ul>
 						<li>
 							<a href='https://www.codecademy.com/profiles/giga0775630017/certificates/458aef4eef5f5130685423fc15e6493d'>
-								Learn React Native Course - Codecademy
+								Codecademy - Learn React Native Course
 							</a>
 						</li>
 						<li>
 							<a href='https://www.credly.com/badges/7f21107d-8767-400c-bd9f-d2d133eb7ff2/linked_in_profile'>
-								Licenser og certificeringer IAAP - International
-								Association of Accessibility Professionals
+								IAAP - Certified Professionals in Accessibility Core
+								Competencies (CPACC)
 							</a>
 						</li>
 					</ul>
