@@ -23,8 +23,8 @@ function About() {
 			<p>
 				I’m Rachel — a frontend developer and digital consultant at Pentia
 				based in Copenhagen. I specialize in building accessible,
-				performant, and scalable user interfaces using modern web
-				technologies like React, Typescript, Sass/Scass, Tailwind CSS and
+				performant, and scalable user interfaces using modern technologies
+				like React Native, React, Typescript, Sass/Scss, Tailwind CSS and
 				more.
 			</p>
 			<br />
