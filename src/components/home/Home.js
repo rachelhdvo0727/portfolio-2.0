@@ -18,7 +18,7 @@ function Home() {
 					}
 				}}
 			/>
-			<h1 className='display-4'>Frontend & React Native developer</h1>
+			<h1 className='display-4'>Cross-platform Frontend developer</h1>
 		</main>
 	);
 }
